@@ -21,12 +21,6 @@ header {
   text-align: center;
 }
 
-.h-container{ 
-  text-align: center;
-  display: flex;
-  justify-content: center;
-}
-
 /* Containers */
 div {
   background-color: #eae2b7;
@@ -41,17 +35,6 @@ article {
 article div {
   text-align: center;
   width: 100%;
-}
-
-.a-container{
-  display: flex;
-  flex-direction: row;
-}
-
-.a-items{
-  display: flex;
-  flex-direction: row;
-  align-content: right;
 }
 
 .container{
